@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository. So excited...
+I am starting on GitHub for modding the game Stardew Valley. I have some minor programming experience. At work, we use Excel based VBA macros for data manipulation for reports.
